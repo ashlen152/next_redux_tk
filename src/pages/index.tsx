@@ -4,7 +4,7 @@ import {
   increment,
   incrementByAmount,
   selectCount
-} from 'features/counter/counterSlice'
+} from 'features/counter'
 import React, { useState } from 'react'
 
 const IndexPage: React.FC = () => {
